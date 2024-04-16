@@ -32,3 +32,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=beauty-ku-mari&show_icons=true&locale=en" alt="beauty-ku-mari" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=beauty-ku-mari&" alt="beauty-ku-mari" /></p>
+
+### My Github Contributions
+![snake animation](https://github.com/Beauty-ku-mari/Beauty-ku-mari/blob/output/github-contribution-grid-snake.svg)
+
