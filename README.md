@@ -2,7 +2,6 @@
 </div>
 
 <h1 align="center">Hey Everyone 👋, I'm Beauty kumari</h1>
- <div align="center"><img src="https://img.freepik.com/premium-vector/cute-girl-working-laptop-vector-illustration-cartoon-style_1142-108357.jpg" alt="Image" width="600" height="350"></div>
 <h3 align="center">A passionate web developer and cloud Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=beauty-ku-mari&label=Profile%20views&color=0e75b6&style=flat" alt="beauty-ku-mari" /> </p>
