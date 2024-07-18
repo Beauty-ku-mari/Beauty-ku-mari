@@ -1,4 +1,4 @@
-<div align="center"><img src="https://images6.alphacoders.com/133/thumbbig-1333846.webp" alt="image" width="1000" height="400">
+<div align="center"><img src="https://images6.alphacoders.com/133/thumbbig-1333846.webp" alt="image" width="1200" height="400">
 </div>
 
 <h1 align="center">Hey Everyone 👋, I'm Beauty kumari</h1>
@@ -12,9 +12,12 @@
 
 - 🌱 I’m currently learning **PHP and DevOps**
 
-- 💬 Ask me about **HTML,CSS,JS,AWS,JAVA,NODEJS,EXPRESSJS,REACT**
+- 💬 Ask me about **HTML, CSS, JS, AWS, JAVA, NODEJS,
+                    EXPRESSJS, REACT**
 
 - 📫 How to reach me **kbeauty193@gmail.com**
+
+- ⚡ Fun fact **I am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
