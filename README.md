@@ -1,5 +1,4 @@
-<div align="center"><img src="https://images6.alphacoders.com/133/thumbbig-1333846.webp" alt="image" width="800" height="350">
-
+<div align="center"><img src="https://images6.alphacoders.com/133/thumbbig-1333846.webp" alt="image" width="1000" height="400">
 </div>
 
 <h1 align="center">Hey Everyone 👋, I'm Beauty kumari</h1>
