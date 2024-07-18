@@ -1,4 +1,4 @@
-<div align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVH3nt5KOmouV0AL_pW6FEGM_V75_gyIQ8Zw&sQ" alt="image" width="600" height="350">
+<div align="center"><img src="https://images6.alphacoders.com/133/thumbbig-1333846.webp" alt="image" width="600" height="350">
 </div>
 
 <h1 align="center">Hey Everyone 👋, I'm Beauty kumari</h1>
