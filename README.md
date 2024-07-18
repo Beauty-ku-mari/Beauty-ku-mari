@@ -1,4 +1,4 @@
-<div align="center"><img src="https://images6.alphacoders.com/133/thumbbig-1333846.webp" alt="image" width="800" height="300">
+<div align="center"><img src="https://images6.alphacoders.com/133/thumbbig-1333846.webp" alt="image" width="600" height="350">
 
 </div>
 
