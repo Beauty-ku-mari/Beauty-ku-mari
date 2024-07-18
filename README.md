@@ -1,4 +1,4 @@
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fblending-pixels-ai-big-leap-graphic-design-designwithpro&psig=AOvVaw3oTanYGsLRGc37gZu8YwTB&ust=1721413541531000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOjX_bObsYcDFQAAAAAdAAAAABAQ">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVH3nt5KOmouV0AL_pW6FEGM_V75_gyIQ8Zw&sQ">
 
 <h1 align="center">Hey Everyone 👋, I'm Beauty kumari</h1>
  <div align="center"><img src="https://img.freepik.com/premium-vector/cute-girl-working-laptop-vector-illustration-cartoon-style_1142-108357.jpg" alt="Image" width="600" height="350"></div>
