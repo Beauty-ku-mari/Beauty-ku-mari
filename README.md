@@ -3,10 +3,9 @@
 
 <h1 align="center">Hey Everyone 👋, I'm Beauty kumari</h1>
 <h3 align="center">A passionate web developer and cloud Engineer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=beauty-ku-mari&label=Profile%20views&color=0e75b6&style=flat" alt="beauty-ku-mari" /> </p>
 <p align ="right"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdjH68OuXzdmrWExIPJEYPrnfhku7r7oFSJg&s" alt="pic" width="200" /> </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=beauty-ku-mari&label=Profile%20views&color=0e75b6&style=flat" alt="beauty-ku-mari" /> </p>
 
 - 🔭 I’m currently working on **yoggyan**
 
