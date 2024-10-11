@@ -1,6 +1,6 @@
 <div align="center"><img src="https://images6.alphacoders.com/133/thumbbig-1333846.webp" alt="image" width="1200" height="400">
 </div>
-
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt=“logo”>
 <h1 align="center">Hey Everyone 👋, I'm Beauty kumari</h1>
 <h3 align="center">A passionate web developer and cloud Engineer</h3>
 
