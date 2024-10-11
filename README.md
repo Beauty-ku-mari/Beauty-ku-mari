@@ -1,8 +1,15 @@
+<h1 align="center">Hey Everyone 👋, I'm Beauty kumari</h1>
+<h3 align="center">A passionate web developer and cloud Engineer</h3>
+
+
+
 <div align="center"><img src="https://images6.alphacoders.com/133/thumbbig-1333846.webp" alt="image" width="1200" height="400">
 </div>
 
-<h1 align="center">Hey Everyone 👋, I'm Beauty kumari</h1>
-<h3 align="center">A passionate web developer and cloud Engineer</h3>
+
+ [![An image of @beautykumari's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/beautykumari)](https://holopin.io/@beautykumari)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Beauty-ku-mari&label=Profile%20views&color=0e75b6&style=flat" alt="Beauty-ku-mari/" /> </p>
 
 - 🔭 I’m currently working on **yoggyan**
 
@@ -14,10 +21,6 @@
 - 📫 How to reach me **kbeauty193@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
-
-- [![An image of @beautykumari's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/beautykumari)](https://holopin.io/@beautykumari)
-- 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Beauty-ku-mari&label=Profile%20views&color=0e75b6&style=flat" alt="Beauty-ku-mari/" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
