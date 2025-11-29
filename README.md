@@ -40,8 +40,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=beauty-ku-mari&show_icons=true&locale=en&layout=compact" alt="beauty-ku-mari" />
 </p>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=beauty-ku-mari&show_icons=true&locale=en&theme=react" alt="beauty-ku-mari" />
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=beauty-ku-mari&show_icons=true&locale=en" alt="beauty-ku-mari" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=beauty-ku-mari&" alt="beauty-ku-mari" /></p>
 
