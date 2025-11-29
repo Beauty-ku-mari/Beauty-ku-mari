@@ -45,6 +45,9 @@
 </div>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=beauty-ku-mari&" alt="beauty-ku-mari" /></p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=beauty-ku-mari&theme=react" alt="beauty-ku-mari" />
+</div>
+
 
 
