@@ -36,8 +36,10 @@
 
 <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.algoworks.com%2Fblog%2Fwhy-use-devops-for-project development%2F&psig=AOvVaw1d1FnOXwV1v5eIqEUkDAJx&ust=1728722921519000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJjdi-z4hYkDFQAAAAAdAAAAABAE">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=beauty-ku-mari" alt="beauty-ku-mari" /></a> </p>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=beauty-ku-mari&show_icons=true&locale=en&layout=compact" alt="beauty-ku-mari" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=beauty-ku-mari&show_icons=true&locale=en&layout=compact" alt="beauty-ku-mari" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=beauty-ku-mari&show_icons=true&locale=en" alt="beauty-ku-mari" /></p>
 
